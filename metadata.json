@@ -1,0 +1,6 @@
+{
+  "name": "ElectroVision AI PRO",
+  "description": "Production-ready electrical engineering platform featuring 3D room scanning, automated smart panel builder, electrical CAD, PUE/IEC cable & power calculators, BOM estimator, and AI engineering assistant.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
